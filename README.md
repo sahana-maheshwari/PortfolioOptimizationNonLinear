@@ -25,8 +25,8 @@ Two investors, two philosophies: **Philip Frost** (low-risk value / biotech) and
 
 ## Deliverables
 
-- [`A2_Non_Linear_Optimization_Frost_&_Icahn (1).ipynb`](A2_Non_Linear_Optimization_Frost_&_Icahn%20(1).ipynb) — the full Python analysis and optimization.
-- [`Assignment A2 Non-Linear Optimization- Group 7-3.pdf`](Assignment%20A2%20Non-Linear%20Optimization-%20Group%207-3.pdf) — the summary deck.
+- [`portfolio_optimization_analysis.ipynb`](portfolio_optimization_analysis.ipynb) — the full Python analysis and optimization.
+- [`portfolio_optimization_report.pdf`](portfolio_optimization_report.pdf) — the summary deck.
 
 ## Stack
 
