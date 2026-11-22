@@ -19,6 +19,8 @@ Two investors, two philosophies: **Philip Frost** (low-risk value / biotech) and
 
 ## Results
 
+![Efficient frontier chart showing Frost's expected return flattening around 21.5% as risk increases, while Icahn's expected return keeps climbing to 37.7% at the highest risk level](efficient_frontier.png)
+
 - **Shares held are strongly negatively correlated with adjusted close price** across all stocks (−0.976 to −0.997).
 - **Trading volume** showed mixed effects by stock; **dividends had no significant impact** on adjusted close.
 - The efficient frontiers matched each investor's profile — Frost's risk rose steeply at low return then flattened, consistent with a lower-risk posture.
